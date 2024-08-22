@@ -327,6 +327,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2024-08-22 00:46:28 +0000",
       "cooked_mutton": "2024-08-21 22:04:15 +0000"
     },
     "done": false
@@ -358,7 +359,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-08-22 00:32:09 +0000",
-      "minecraft:spider": "2024-08-22 00:31:47 +0000"
+      "minecraft:spider": "2024-08-22 00:31:47 +0000",
+      "minecraft:zombie": "2024-08-22 00:48:42 +0000"
     },
     "done": false
   },
