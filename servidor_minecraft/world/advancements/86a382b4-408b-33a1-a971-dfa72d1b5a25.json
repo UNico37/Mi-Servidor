@@ -327,6 +327,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "spider_eye": "2024-08-22 01:18:40 +0000",
       "rotten_flesh": "2024-08-22 00:46:28 +0000",
       "cooked_mutton": "2024-08-21 22:04:15 +0000"
     },
