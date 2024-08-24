@@ -14,7 +14,7 @@ alias = "64"
 
 # Description of the protection block type
 # Shows up in /ps get menu
-description = "64 block radius protection zone."
+description = "Esta mierda protege 64 bloques a la redonda"
 
 # Whether or not to restrict obtaining of the protection stone to only /ps get and /ps give and custom crafting recipes.
 # Other ways to obtain this block (ex. mining) will not work as a protection stone.
@@ -76,8 +76,8 @@ placing_bypasses_wg_passthrough = true
     flags = [
         "pvp deny",
         "tnt deny",
-        "greeting &lEntering &b&l%player%'s &f&lprotected area",
-        "farewell &lLeaving &b&l%player%'s &f&lprotected area",
+        "greeting &lEntraste a &b&l%player%'s &f&lzona protegida jodete",
+        "farewell &lSaliste &b&l%player%'s &f&lzona protegida, rompe todo",
         "greeting-action &lEntering &b&l%player%'s &f&lprotected area",
         "farewell-action &lLeaving &b&l%player%'s &f&lprotected area",
         "creeper-explosion deny",
@@ -150,7 +150,7 @@ placing_bypasses_wg_passthrough = true
     # Name given to protection block when obtained with /ps give or /ps get
     # Also affects custom crafted items (see custom_recipe)
     # Leave as '' for no name
-    display_name = "&a&m<---&r&b 64 Radius Protection Block &r&a&m--->"
+    display_name = "&a&m<---&r&b Anti maricones de 64x64 bloques &r&a&m--->"
 
     # Lore given to protection block when obtained with /ps give or /ps get
     # Also affects custom crafted items (see custom_recipe)
