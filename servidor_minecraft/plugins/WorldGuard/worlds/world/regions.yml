@@ -17,8 +17,8 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lUNico3737's §f§lprotected area, greeting-action: §lEntering §b§lUNico3737's
                 §f§lprotected area, greeting: §lEntraste a §b§lUNico3737's §f§lzona
-                protegida jodete, ps-home: -14.0 67.0 -106.0, pvp: deny, tnt: deny,
-            ghast-fireball: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+                protegida jodete, ps-home: -14.0 67.0 -106.0, tnt: deny, pvp: deny,
+            ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25, ghast-fireball: deny,
             ps-block-material: EMERALD_ORE, farewell: '§lSaliste §b§lUNico3737''s
                 §f§lzona protegida, rompe todo'}
         owners:

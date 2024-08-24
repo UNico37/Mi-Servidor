@@ -77,9 +77,9 @@ placing_bypasses_wg_passthrough = true
         "pvp deny",
         "tnt deny",
         "greeting &lEntraste a &b&l%player%'s &f&lzona protegida jodete",
-        "farewell &lSaliste &b&l%player%'s &f&lzona protegida, rompe todo",
-        "greeting-action &lEntering &b&l%player%'s &f&lprotected area",
-        "farewell-action &lLeaving &b&l%player%'s &f&lprotected area",
+        "farewell &lSaliste de &b&l%player%'s &f&lzona protegida grifea tranquilo",
+        "greeting-action &lEntraste a &b&l%player%'s &f&lzona protegida jodete",
+        "farewell-action &lSaliste de &b&l%player%'s &f&lzona protegida grifea tranquilo",
         "creeper-explosion deny",
         "wither-damage deny",
         "ghast-fireball deny",
@@ -156,7 +156,7 @@ placing_bypasses_wg_passthrough = true
     # Also affects custom crafted items (see custom_recipe)
     # Leave as [] for no lore
     lore = [
-        "&6(⌐■_■)ノ♪ Nobody's going to touch my stuff!",
+        "&6(⌐■_■)ノ♪ Despreocupate, ni dios puede destruir esta protección!",
     ]
 
     # Whether the item should have an "glow/enchant" effect look when in a player's inventory.
