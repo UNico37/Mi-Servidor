@@ -10,6 +10,21 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    ps-97x72y-15z:
+        min: {x: -161, y: -32768, z: -79}
+        max: {x: -33, y: 32767, z: 49}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lUNico3737's §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lUNico3737's §f§lzona protegida jodete, greeting: §lEntraste
+                a §b§lUNico3737's §f§lzona protegida jodete, ps-home: -97.0 73.0 -15.0,
+            pvp: deny, tnt: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliste
+                de §b§lUNico3737's §f§lzona protegida grifea tranquilo}
+        owners:
+            unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
     ps-14x66y-106z:
         min: {x: -78, y: -32768, z: -170}
         max: {x: 50, y: 32767, z: -42}
@@ -17,10 +32,40 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lUNico3737's §f§lprotected area, greeting-action: §lEntering §b§lUNico3737's
                 §f§lprotected area, greeting: §lEntraste a §b§lUNico3737's §f§lzona
-                protegida jodete, ps-home: -14.0 67.0 -106.0, tnt: deny, pvp: deny,
+                protegida jodete, ps-home: -14.0 67.0 -106.0, pvp: deny, tnt: deny,
             ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25, ghast-fireball: deny,
             ps-block-material: EMERALD_ORE, farewell: '§lSaliste §b§lUNico3737''s
                 §f§lzona protegida, rompe todo'}
+        owners:
+            unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
+    ps126x90y84z:
+        min: {x: 62, y: -32768, z: 20}
+        max: {x: 190, y: 32767, z: 148}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lUNico3737 §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lUNico3737 §f§lzona protegida jodete, greeting: §lEntraste a
+                §b§lUNico3737 §f§lzona protegida jodete, ps-home: 126.0 91.0 84.0,
+            pvp: deny, tnt: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliste
+                de §b§lUNico3737 §f§lzona protegida grifea tranquilo}
+        owners:
+            unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
+    ps35x95y11z:
+        min: {x: -29, y: -32768, z: -53}
+        max: {x: 99, y: 32767, z: 75}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lUNico3737's §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lUNico3737's §f§lzona protegida jodete, greeting: §lEntraste
+                a §b§lUNico3737's §f§lzona protegida jodete, ps-home: 35.0 96.0 11.0,
+            pvp: deny, tnt: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliste
+                de §b§lUNico3737's §f§lzona protegida grifea tranquilo}
         owners:
             unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
         type: cuboid
