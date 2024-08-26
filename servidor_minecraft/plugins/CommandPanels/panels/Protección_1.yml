@@ -11,4 +11,4 @@ panels:
           - '&eProtección miserable'
         commands:
           - console= ps give 8 %cp-player-name% 1
-    perm: commandpanels.protecciones
+    perm: protecciones
