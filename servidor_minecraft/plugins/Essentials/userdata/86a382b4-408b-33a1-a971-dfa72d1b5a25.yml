@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.253.126.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724711738132
+  login: 1724711679701
+money: '0'
+last-account-name: UNico3737
+logoutlocation:
+  world: 01327ee6-7b5e-4bd9-b072-eb73e58153b0
+  world-name: world
+  x: -336.80250674049734
+  y: 123.0
+  z: -425.4188864750797
+  yaw: 95.99576568603516
+  pitch: 7.349963188171387
