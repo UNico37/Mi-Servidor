@@ -1,0 +1,11 @@
+panels:
+  Protección1:
+    rows: '3'
+    title: '&8New Panel'
+    empty: white_stained_glass_pane
+    item:
+      '13':
+        material: coal_ore
+        name: '&F&lPROTECCIONES &F&5'
+        lore:
+          - '&eProtección miserable'

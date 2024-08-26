@@ -143,12 +143,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-08-25 03:21:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-08-25 02:50:06 +0000"
@@ -161,15 +155,34 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_string": "2024-08-25 03:21:49 +0000"
+      "has_stick": "2024-08-25 02:50:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_lots_of_items": "2024-08-25 03:08:44 +0000"
+      "has_stick": "2024-08-25 02:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-08-25 03:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-08-25 03:25:39 +0000",
+      "enchanted_golden_apple": "2024-08-25 03:07:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-25 03:07:25 +0000"
     },
     "done": true
   },
@@ -179,15 +192,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_stick": "2024-08-25 02:50:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2024-08-25 03:21:49 +0000"
+      "has_lots_of_items": "2024-08-25 03:08:44 +0000"
     },
     "done": true
   },
@@ -199,9 +206,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_stick": "2024-08-25 02:50:06 +0000"
+      "minecraft:spider": "2024-08-25 03:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-08-25 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-08-25 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-08-25 03:21:49 +0000"
     },
     "done": true
   },
@@ -217,39 +242,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2024-08-25 03:21:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-08-25 03:21:49 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "enchanted_golden_apple": "2024-08-25 03:07:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-08-25 03:07:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-08-25 03:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-08-25 03:07:19 +0000"
     },
     "done": true
   },
