@@ -9,3 +9,6 @@ panels:
         name: '&F&lPROTECCIONES &F&5'
         lore:
           - '&eProtección miserable'
+        commands:
+          - console= ps give 8 %cp-player-name% 1
+    perm: commandpanels.protecciones
