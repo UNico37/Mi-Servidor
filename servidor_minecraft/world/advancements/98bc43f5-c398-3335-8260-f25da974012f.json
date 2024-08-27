@@ -342,6 +342,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-08-27 02:32:10 +0000",
+      "cooked_rabbit": "2024-08-27 02:26:54 +0000",
       "cooked_chicken": "2024-08-27 01:10:20 +0000"
     },
     "done": false
@@ -445,6 +447,18 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-08-27 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-08-27 02:27:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-08-27 02:27:04 +0000"
     },
     "done": true
   },

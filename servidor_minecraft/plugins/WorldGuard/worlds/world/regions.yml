@@ -70,6 +70,21 @@ regions:
             unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
         type: cuboid
         priority: 0
+    ps-323x57y-140z:
+        min: {x: -331, y: -32768, z: -148}
+        max: {x: -315, y: 32767, z: -132}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lUNico3737 §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lUNico3737 §f§lzona protegida jodete, greeting: §lEntraste a
+                §b§lUNico3737 §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: -323.0
+                58.0 -140.0, ghast-fireball: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+            ps-block-material: COAL_ORE, farewell: §lSaliste de §b§lUNico3737 §f§lzona
+                protegida grifea tranquilo}
+        owners:
+            unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
     ps20x73y131z:
         min: {x: 4, y: -32768, z: 115}
         max: {x: 36, y: 32767, z: 147}
