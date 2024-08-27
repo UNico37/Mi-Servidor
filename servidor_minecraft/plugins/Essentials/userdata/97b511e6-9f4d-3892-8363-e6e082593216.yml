@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1724730128928
   login: 1724722462740
 money: '0'
 last-account-name: Claudbox
@@ -28,3 +28,11 @@ lastlocation:
   z: -155.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: a99bea6d-7064-43d2-9bf2-b0b7030cb8ec
+  world-name: world
+  x: -370.6396832140292
+  y: 70.0
+  z: -119.51656469931591
+  yaw: -84.89794921875
+  pitch: 36.900089263916016
