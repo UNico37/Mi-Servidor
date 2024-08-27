@@ -4,11 +4,20 @@ panels:
     title: '&8New Panel'
     empty: white_stained_glass_pane
     item:
-      '13':
+      '12':
         material: coal_ore
         name: '&F&lPROTECCIONES &F&5'
         lore:
           - '&eProtección miserable'
         commands:
           - console= ps give 8 %cp-player-name% 1
+      '13':
+        material: iron_ore
+        name: '&F&lPROTECCIONES &F&5'
+        lore:
+          - '&eProtección asquerosa'
+        commands:
+          - console= ps give 16 %cp-player-name% 1
+        has1:
+          material: iron_ore
     perm: protecciones
