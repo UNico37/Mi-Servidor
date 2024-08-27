@@ -70,6 +70,36 @@ regions:
             unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
         type: cuboid
         priority: 0
+    ps20x73y131z:
+        min: {x: 4, y: -32768, z: 115}
+        max: {x: 36, y: 32767, z: 147}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lClaudbox §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lClaudbox §f§lzona protegida jodete, greeting: §lEntraste a §b§lClaudbox
+                §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: 20.0 74.0
+                131.0, ghast-fireball: deny, ps-tax-autopayer: 97b511e6-9f4d-3892-8363-e6e082593216,
+            ps-block-material: IRON_ORE, farewell: §lSaliste de §b§lClaudbox §f§lzona
+                protegida grifea tranquilo}
+        owners:
+            unique-ids: [97b511e6-9f4d-3892-8363-e6e082593216]
+        type: cuboid
+        priority: 0
+    ps20x73y130z:
+        min: {x: 4, y: -32768, z: 114}
+        max: {x: 36, y: 32767, z: 146}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lClaudbox §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lClaudbox §f§lzona protegida jodete, greeting: §lEntraste a §b§lClaudbox
+                §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: 20.0 74.0
+                130.0, ghast-fireball: deny, ps-tax-autopayer: 97b511e6-9f4d-3892-8363-e6e082593216,
+            ps-block-material: IRON_ORE, farewell: §lSaliste de §b§lClaudbox §f§lzona
+                protegida grifea tranquilo}
+        owners:
+            unique-ids: [97b511e6-9f4d-3892-8363-e6e082593216]
+        type: cuboid
+        priority: 0
     ps-133x66y-191z:
         min: {x: -141, y: -32768, z: -199}
         max: {x: -125, y: 32767, z: -183}

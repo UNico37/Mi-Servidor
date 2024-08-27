@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1724720540729
-  login: 1724720773980
+  logout: 1724724254880
+  login: 1724724470725
 money: '0'
 last-account-name: UNico3737
 logoutlocation:
   world: a99bea6d-7064-43d2-9bf2-b0b7030cb8ec
   world-name: world
-  x: -317.8436568730884
-  y: 64.0
-  z: -147.8288939115543
-  yaw: 83.5521240234375
-  pitch: 28.19992446899414
+  x: -385.22849487210533
+  y: 33.0
+  z: -200.1217426874809
+  yaw: -4.934906005859375
+  pitch: 31.19991683959961
 lastlocation:
   world: a99bea6d-7064-43d2-9bf2-b0b7030cb8ec
   world-name: world
