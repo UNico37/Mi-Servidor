@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1724726450529
+  logout: 1724729495330
   login: 1724726829275
 money: '0'
 last-account-name: RyujiItsuka
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: a99bea6d-7064-43d2-9bf2-b0b7030cb8ec
   world-name: world
-  x: -479.64114855624405
-  y: 64.0
-  z: 90.30000001192093
-  yaw: -36.762451171875
-  pitch: -1.7312498092651367
+  x: -684.6999999880791
+  y: 108.0
+  z: 1005.3000000119209
+  yaw: 38.830810546875
+  pitch: 26.39995765686035
