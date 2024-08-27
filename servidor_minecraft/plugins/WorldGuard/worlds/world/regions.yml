@@ -25,15 +25,15 @@ regions:
             unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
         type: cuboid
         priority: 0
-    ps-133x70y-190z:
-        min: {x: -141, y: -32768, z: -198}
-        max: {x: -125, y: 32767, z: -182}
+    ps-133x70y-191z:
+        min: {x: -141, y: -32768, z: -199}
+        max: {x: -125, y: 32767, z: -183}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
                 de §b§lClaudbox §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
                 a §b§lClaudbox §f§lzona protegida jodete, greeting: §lEntraste a §b§lClaudbox
                 §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: -133.0 71.0
-                -190.0, ghast-fireball: deny, ps-tax-autopayer: 97b511e6-9f4d-3892-8363-e6e082593216,
+                -191.0, ghast-fireball: deny, ps-tax-autopayer: 97b511e6-9f4d-3892-8363-e6e082593216,
             ps-block-material: COAL_ORE, farewell: §lSaliste de §b§lClaudbox §f§lzona
                 protegida grifea tranquilo}
         owners:
@@ -68,5 +68,20 @@ regions:
                 §f§lzona protegida, rompe todo'}
         owners:
             unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
+    ps-133x66y-191z:
+        min: {x: -141, y: -32768, z: -199}
+        max: {x: -125, y: 32767, z: -183}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lClaudbox §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lClaudbox §f§lzona protegida jodete, greeting: §lEntraste a §b§lClaudbox
+                §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: -133.0 67.0
+                -191.0, ghast-fireball: deny, ps-tax-autopayer: 97b511e6-9f4d-3892-8363-e6e082593216,
+            ps-block-material: COAL_ORE, farewell: §lSaliste de §b§lClaudbox §f§lzona
+                protegida grifea tranquilo}
+        owners:
+            unique-ids: [97b511e6-9f4d-3892-8363-e6e082593216]
         type: cuboid
         priority: 0
