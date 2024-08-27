@@ -163,7 +163,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-08-27 00:33:36 +0000"
+      "minecraft:spider": "2024-08-27 00:33:36 +0000",
+      "minecraft:zombie": "2024-08-27 00:35:07 +0000"
     },
     "done": false
   },
