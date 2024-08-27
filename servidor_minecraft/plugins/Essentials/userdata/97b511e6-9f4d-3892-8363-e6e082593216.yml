@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.108.190.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1724722462740
+money: '0'
+last-account-name: Claudbox
+lastlocation:
+  world: a99bea6d-7064-43d2-9bf2-b0b7030cb8ec
+  world-name: world
+  x: -216.5
+  y: 63.0
+  z: -155.5
+  yaw: 0.0
+  pitch: 0.0
