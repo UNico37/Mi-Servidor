@@ -21,8 +21,11 @@
     "criteria": {
       "minecraft:frozen_ocean": "2024-08-27 00:48:43 +0000",
       "minecraft:frozen_river": "2024-08-27 00:49:44 +0000",
+      "minecraft:taiga": "2024-08-27 02:56:39 +0000",
+      "minecraft:windswept_forest": "2024-08-27 02:52:14 +0000",
       "minecraft:snowy_plains": "2024-08-27 00:20:03 +0000",
       "minecraft:windswept_gravelly_hills": "2024-08-27 00:50:24 +0000",
+      "minecraft:windswept_hills": "2024-08-27 02:51:37 +0000",
       "minecraft:snowy_taiga": "2024-08-27 01:00:53 +0000",
       "minecraft:snowy_beach": "2024-08-27 00:24:11 +0000"
     },
@@ -235,6 +238,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-08-27 02:14:07 +0000",
+      "minecraft:stray": "2024-08-27 02:48:41 +0000",
       "minecraft:spider": "2024-08-27 00:33:36 +0000",
       "minecraft:zombie": "2024-08-27 00:35:07 +0000"
     },
@@ -865,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-08-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-08-27 02:18:25 +0000"
@@ -880,6 +890,18 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-08-27 02:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-08-27 02:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-08-27 02:53:45 +0000"
     },
     "done": true
   },
@@ -913,9 +935,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-08-27 02:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-08-27 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-08-27 02:49:27 +0000"
     },
     "done": true
   },
@@ -937,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-08-27 02:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-08-27 02:18:25 +0000"
@@ -952,6 +992,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-08-27 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-08-27 02:56:38 +0000"
     },
     "done": true
   },
@@ -991,9 +1037,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-08-27 02:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-08-27 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-08-27 02:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-08-27 02:56:33 +0000"
     },
     "done": true
   },
@@ -1012,6 +1076,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-08-27 02:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-08-27 02:49:27 +0000"
     },
     "done": true
   },
