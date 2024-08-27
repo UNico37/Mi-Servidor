@@ -10,6 +10,21 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    ps-3x65y-40z:
+        min: {x: -67, y: -32768, z: -104}
+        max: {x: 61, y: 32767, z: 24}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lUNico3737 §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lUNico3737 §f§lzona protegida jodete, greeting: §lEntraste a
+                §b§lUNico3737 §f§lzona protegida jodete, ps-home: -3.0 66.0 -40.0,
+            pvp: deny, tnt: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+            ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliste
+                de §b§lUNico3737 §f§lzona protegida grifea tranquilo}
+        owners:
+            unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
     ps-97x72y-15z:
         min: {x: -161, y: -32768, z: -79}
         max: {x: -33, y: 32767, z: 49}
@@ -17,8 +32,8 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
                 de §b§lUNico3737's §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
                 a §b§lUNico3737's §f§lzona protegida jodete, greeting: §lEntraste
-                a §b§lUNico3737's §f§lzona protegida jodete, ps-home: -97.0 73.0 -15.0,
-            pvp: deny, tnt: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+                a §b§lUNico3737's §f§lzona protegida jodete, tnt: deny, ps-home: -97.0
+                73.0 -15.0, pvp: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
             ghast-fireball: deny, ps-block-material: EMERALD_ORE, farewell: §lSaliste
                 de §b§lUNico3737's §f§lzona protegida grifea tranquilo}
         owners:
@@ -32,7 +47,7 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lUNico3737's §f§lprotected area, greeting-action: §lEntering §b§lUNico3737's
                 §f§lprotected area, greeting: §lEntraste a §b§lUNico3737's §f§lzona
-                protegida jodete, ps-home: -14.0 67.0 -106.0, pvp: deny, tnt: deny,
+                protegida jodete, tnt: deny, ps-home: -14.0 67.0 -106.0, pvp: deny,
             ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25, ghast-fireball: deny,
             ps-block-material: EMERALD_ORE, farewell: '§lSaliste §b§lUNico3737''s
                 §f§lzona protegida, rompe todo'}
