@@ -17,12 +17,27 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
                 de §b§lUNico3737's §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
                 a §b§lUNico3737's §f§lzona protegida jodete, greeting: §lEntraste
-                a §b§lUNico3737's §f§lzona protegida jodete, pvp: deny, ps-home: -97.0
-                73.0 -15.0, tnt: deny, ghast-fireball: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
+                a §b§lUNico3737's §f§lzona protegida jodete, tnt: deny, pvp: deny,
+            ps-home: -97.0 73.0 -15.0, ghast-fireball: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
             ps-block-material: EMERALD_ORE, farewell: §lSaliste de §b§lUNico3737's
                 §f§lzona protegida grifea tranquilo}
         owners:
             unique-ids: [86a382b4-408b-33a1-a971-dfa72d1b5a25]
+        type: cuboid
+        priority: 0
+    ps-133x70y-190z:
+        min: {x: -141, y: -32768, z: -198}
+        max: {x: -125, y: 32767, z: -182}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
+                de §b§lClaudbox §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
+                a §b§lClaudbox §f§lzona protegida jodete, greeting: §lEntraste a §b§lClaudbox
+                §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: -133.0 71.0
+                -190.0, ghast-fireball: deny, ps-tax-autopayer: 97b511e6-9f4d-3892-8363-e6e082593216,
+            ps-block-material: COAL_ORE, farewell: §lSaliste de §b§lClaudbox §f§lzona
+                protegida grifea tranquilo}
+        owners:
+            unique-ids: [97b511e6-9f4d-3892-8363-e6e082593216]
         type: cuboid
         priority: 0
     ps-208x61y-160z:
@@ -32,7 +47,7 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lSaliste
                 de §b§lUNico3737 §f§lzona protegida grifea tranquilo, greeting-action: §lEntraste
                 a §b§lUNico3737 §f§lzona protegida jodete, greeting: §lEntraste a
-                §b§lUNico3737 §f§lzona protegida jodete, pvp: deny, tnt: deny, ps-home: -208.0
+                §b§lUNico3737 §f§lzona protegida jodete, tnt: deny, pvp: deny, ps-home: -208.0
                 62.0 -160.0, ghast-fireball: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
             ps-block-material: EMERALD_ORE, farewell: §lSaliste de §b§lUNico3737 §f§lzona
                 protegida grifea tranquilo}
@@ -47,7 +62,7 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lUNico3737's §f§lprotected area, greeting-action: §lEntering §b§lUNico3737's
                 §f§lprotected area, greeting: §lEntraste a §b§lUNico3737's §f§lzona
-                protegida jodete, pvp: deny, ps-home: -14.0 67.0 -106.0, tnt: deny,
+                protegida jodete, tnt: deny, pvp: deny, ps-home: -14.0 67.0 -106.0,
             ghast-fireball: deny, ps-tax-autopayer: 86a382b4-408b-33a1-a971-dfa72d1b5a25,
             ps-block-material: EMERALD_ORE, farewell: '§lSaliste §b§lUNico3737''s
                 §f§lzona protegida, rompe todo'}
